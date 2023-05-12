@@ -10,30 +10,6 @@ Nossa equipe está empenhada em criar um guia completo, repleto de exemplos prá
 
 Fique atento às atualizações, pois em breve compartilharemos este guia épico para que você possa começar sua jornada rumo à maestria DevOps. Prepare-se para aprimorar suas habilidades, desafiar-se e trilhar o caminho do verdadeiro Samurai DevOps. Juntos, vamos dominar o mercado de trabalho e deixar uma marca poderosa na comunidade tecnológica. Mantenha sua espada afiada e esteja pronto para se tornar um guerreiro DevOps imbatível!
 
-## Bem-vindo à trilha de estudos para DevOps! :rocket::mortar_board:
-
-Se você está interessado em criar uma carreira sólida na área de desenvolvimento e operações, este é o lugar certo para começar.
-
-DevOps é um campo empolgante que combina a eficiência e a velocidade do desenvolvimento de software com a confiabilidade e a estabilidade das operações de infraestrutura. :wrench::rocket:
-
-Nesta trilha de estudos, iremos mergulhar nas principais competências e conhecimentos necessários para se tornar um profissional de DevOps de sucesso. :muscle::books:
-
-Você aprenderá sobre a cultura DevOps, metodologias ágeis, automação de processos, provisionamento de infraestrutura, integração e entrega contínuas, monitoramento e muito mais. :arrows_counterclockwise::gear::chart_with_upwards_trend:
-
-Ao longo dessa jornada, vamos explorar uma variedade de tecnologias e ferramentas populares, como Docker, Kubernetes, Jenkins, Ansible, Git, AWS, Azure, entre outras. :whale::ship::wrench:
-
-Além disso, você terá a oportunidade de desenvolver habilidades essenciais de colaboração, comunicação e resolução de problemas, fundamentais para um ambiente DevOps eficaz. :handshake::speech_balloon::bulb:
-
-Esteja preparado para aprimorar suas habilidades técnicas, aprender práticas de desenvolvimento e operações de alto desempenho e dominar a arte de construir, implantar e manter sistemas de software de forma ágil e confiável. :dart::computer::sparkles:
-
-A trilha de estudos para DevOps oferece uma combinação equilibrada de teoria e prática, com exercícios, projetos e estudos de caso que o ajudarão a aplicar os conceitos aprendidos em situações reais. :bulb::mag_right::muscle:
-
-Não importa se você está começando do zero ou já possui experiência em desenvolvimento ou operações, esta trilha o guiará no caminho para se tornar um profissional versátil e altamente procurado no mercado de trabalho. :mortar_board::briefcase::briefcase:
-
-Estamos animados para embarcar nesta jornada de aprendizado com você e ajudá-lo a se tornar um especialista em DevOps. Vamos começar! :tada::rocket::muscle:
-
-
-Certamente! Aqui está um roadmap de estudos para você se aprofundar no campo de DevOps:
 
 ## Fundamentos de Desenvolvimento de Software
 
