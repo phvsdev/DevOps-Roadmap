@@ -14,11 +14,31 @@ Fique atento às atualizações, pois em breve compartilharemos este guia épico
 ## Fundamentos de Desenvolvimento de Software
 
 - Linguagens de programação: Comece com uma linguagem popular, como Python ou JavaScript, e aprenda os conceitos básicos.
+    RocketSeat: https://www.rocketseat.com.br/
+
+        Conectar
+        Fundamentar
+        Especializar
+
+⚠️ **Passar em todas as certificações e postar no LinkedIn**
+
+    First Checkpoint 🏁
+
 - Controle de versão: Familiarize-se com ferramentas como Git e aprenda a criar repositórios, clonar projetos e gerenciar branches.
 
 ## Sistemas Operacionais e Administração de Servidores
 
-- Linux: Aprenda os fundamentos do sistema operacional Linux, incluindo comandos básicos de terminal e gerenciamento de arquivos.
+  **FIAP Link do Cadastro do Portal: **https://on.fiap.com.br/local/programaeucapacito/
+  **FIAP do Link do Portal: **https://on.fiap.com.br/ 
+
+  - Linux Fundamentos - Aprenda os fundamentos do sistema operacional Linux, incluindo comandos básicos de terminal e gerenciamento de arquivos.
+  - DevOps & Agile Culture - Aprenda os fundamentos da Cultura DevOps, Metodologia e Melhores Práticas de Desenvolvimento de Software e etc.
+  - Cloud Fundamentals, Administration and Solution Architect - Aprenda os fundamentos de Cloud, Arquiteturas, AWS, Azure, GCP, Docker e Kubernetes. 
+  
+⚠️ **Passar em todas as certificações e postar no LinkedIn**
+
+    Second Checkpoint 🏁
+
 - Virtualização: Familiarize-se com conceitos de virtualização, como máquinas virtuais e contêineres (por exemplo, Docker).
 
 ## Infraestrutura como Código (IaC)
