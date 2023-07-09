@@ -51,11 +51,6 @@ Fique atento às atualizações, pois em breve compartilharemos este guia épico
 - Jenkins: Aprenda a configurar pipelines de CI/CD com o Jenkins para automatizar compilação, testes e implantação.
 - GitLab CI/CD ou Travis CI: Explore outras ferramentas populares de CI/CD para diversificar suas habilidades.
 
-## Monitoramento e Logs
-
-- Prometheus: Aprenda a configurar métricas de monitoramento e alertas usando o Prometheus.
-- ELK Stack: Explore a pilha ELK (Elasticsearch, Logstash e Kibana) para coletar, armazenar e visualizar logs.
-
 ## Orquestração de Contêineres e Gerenciamento de Clusters
 
 - Kubernetes: Aprofunde-se no Kubernetes para orquestrar contêineres e gerenciar aplicativos em escala.
@@ -70,6 +65,11 @@ Fique atento às atualizações, pois em breve compartilharemos este guia épico
 
 - AWS, Azure ou GCP: Escolha um provedor de nuvem líder e aprenda a criar, configurar e gerenciar recursos na nuvem.
 - Arquitetura de microsserviços: Familiarize-se com os princípios e padrões de design de arquitetura distribuída.
+
+## Monitoramento e Logs
+
+- Prometheus: Aprenda a configurar métricas de monitoramento e alertas usando o Prometheus.
+- ELK Stack: Explore a pilha ELK (Elasticsearch, Logstash e Kibana) para coletar, armazenar e visualizar logs.
 
 ## Aprendizado Contínuo
 
