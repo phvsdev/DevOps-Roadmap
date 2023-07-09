@@ -16,13 +16,13 @@ Fique atento às atualizações, pois em breve compartilharemos este guia épico
 - Linguagens de programação: Comece com uma linguagem popular, como Python ou JavaScript, e aprenda os conceitos básicos.
     RocketSeat: https://www.rocketseat.com.br/
 
-        Conectar
-        Fundamentar
-        Especializar
+Conectar
+Fundamentar
+Especializar
 
 ⚠️ **Passar em todas as certificações e postar no LinkedIn**
 
-    First Checkpoint 🏁
+First Checkpoint 🏁
 
 - Controle de versão: Familiarize-se com ferramentas como Git e aprenda a criar repositórios, clonar projetos e gerenciar branches.
 
@@ -37,7 +37,7 @@ Fique atento às atualizações, pois em breve compartilharemos este guia épico
   
 ⚠️ **Passar em todas as certificações e postar no LinkedIn**
 
-    Second Checkpoint 🏁
+Second Checkpoint 🏁
 
 - Virtualização: Familiarize-se com conceitos de virtualização, como máquinas virtuais e contêineres (por exemplo, Docker).
 
